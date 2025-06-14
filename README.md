@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]()
 <h1 align="center">Hi 👋, I'm Khao</h1>
 <h3 align="center">A IT student from VietNam</h3>
 
@@ -12,13 +11,13 @@
 
 - 💬 Ask me about **Web**
 
-- 📫 How to reach me **khaonguyen.it@gmail.com**
+- 📫 How to reach me **khaonguyen.dev@gmail.com**
 
 - ⚡ Fun fact **I think i am a chatterbox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/khao.nguyen.315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khao.nguyen.315/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khao-nguyen-819735356/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="https://www.linkedin.com/in/khao-nguyen-819735356/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web**
 
-- 📫 How to reach me **khaonguyen.dev@gmail.com**
+- 📫 How to reach me **khao.nguyen.works@gmail.com**
 
 - ⚡ Fun fact **I think i am a chatterbox**
 
